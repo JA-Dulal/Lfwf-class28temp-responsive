@@ -1,0 +1,152 @@
+img{
+    max-width: 100%;
+}
+.imagenn{
+    width: 90px;
+}
+.menunn{
+}
+
+.nummmmm{
+    padding: 30px 0;
+}
+
+.about-section{
+    background-color: #faf9fe;
+}
+
+.about-section h5{
+    
+    margin-top: 122px;
+}
+.text-tag h5{
+    margin-top: 50px;
+
+}
+.text-taggggggg{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+.text-taggggggg a{
+    background-color:#8491ff;
+    color: #fff;
+}
+
+
+
+.text-taggggggg a:hover{
+    background-color: #5465fa;
+    color: #fff;
+
+}
+.text-tag a{
+    background-color: #8491ff;
+    color: #fff;
+}
+.text-tag a:hover{
+    background-color: #5465fa;
+    
+    color: #fff;
+}
+.Number-counter{
+    background-color: #8491ff;
+
+}
+.amitomar a{
+    background-color: #2da6df;
+    color: #fff;
+
+}
+.amitomar a:hover{
+    background-color: #5465fa;
+    color: #fff;
+
+}
+
+
+
+
+
+
+.prizing-item{
+    width: 100px;
+    height: 100px;
+    background-color: #faf9ff;
+    display: inline-block;
+    border-radius: 50%;
+    
+}
+.prizing-weight{
+    width: 31%;
+    margin-left: 20px;
+}
+
+.prizing-weight-2{
+    width: 23%;
+    margin-left: 20px;
+}
+
+
+.prizing-item h1{
+margin-top: 20px;
+font-size: 50px;
+}
+.prizing-item p{
+    color: grey;
+    
+}
+.service-section h4{
+    letter-spacing: -2px;
+}
+
+
+.prizing-item-2 h1{
+    margin-top: 10px;
+    font-size: 50px;
+}
+
+
+.prizing-item-2{
+    position: relative;
+    
+}
+.service-section-2{
+    margin-top: 50px;
+}
+
+.prizing-item-2 img{
+    width: 100px;
+    position: absolute;
+    top: -80px;
+    left: 0px;
+}
+.prizing-item-2 h3{
+    
+}
+.form-tag{
+    width: 40%;
+    display: inline-block;
+}
+.form-tag2{
+    margin-left: 19px;
+}
+
+.text-amer{
+    margin-top: 100px;
+    
+}
+.contact-section{
+    background-color: rgb(248, 250, 251);
+}
+.contact-style{
+    background-color: #fff;
+}
+.fixed-section{
+    margin-top: 102px;
+
+}
