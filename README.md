@@ -1,0 +1,1 @@
+# Lfwf-class28temp-responsive
